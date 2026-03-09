@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WorkoutTracker_Api": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7078",
+      "launchBrowser": false
+    }
+  }
+}
